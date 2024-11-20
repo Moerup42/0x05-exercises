@@ -1,3 +1,4 @@
 #include <string>
+using namespace std;
 
-std::string letter_seen_twice(std::string text);
+string letter_seen_twice(string text);
